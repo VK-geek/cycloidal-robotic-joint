@@ -1,5 +1,3 @@
-# cycloidal-robotic-joint
-10:1 cycloidal gearbox for robotic arm actuation
 # Cycloidal Drive for Robotic Arm Joint
 
 Compact **10:1 cycloidal gearbox** designed for robotic arm actuation and compact robotic joint applications.
